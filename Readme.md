@@ -1,1 +1,1 @@
-Exercicios de algoritmos feitos na faculdade
+Exercicios de algoritmos em C feitos na faculdade
