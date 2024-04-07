@@ -1,1 +1,1 @@
-Exercicios de algoritmos feitos na faculdade
+Analisando a temeperatura media das cidades brasileiras com o dataset da Berkelay Earth
